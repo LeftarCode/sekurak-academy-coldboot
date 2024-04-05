@@ -16,8 +16,9 @@ Dodatkową inspiracją może być plugin do Volatility:
 - [Extracting BitLocker keys with Volatility](https://tribalchicken.net/extracting-bitlocker-keys-with-volatility-part-1-poc/)
 - [Volatility-BitLocker](https://github.com/breppo/Volatility-BitLocker/blob/master/bitlocker.py)
 
+---
 
-Specjalnie dla uczestników szkolenia zostały przygotowane kody rabatowe na książkę oraz na dostęp do Sekurak Academy :)
+Dodatkowo, specjalnie dla uczestników szkolenia zostały przygotowane kody rabatowe na książkę oraz na dostęp do Sekurak Academy :)
 
 ![Sekurak Academy](assets/sekurak_academy.jpg)
 ![Książka Wprowadzenie do bezpieczeństwa IT](assets/ksiazka.png)
