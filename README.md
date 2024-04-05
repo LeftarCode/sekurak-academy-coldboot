@@ -1,12 +1,12 @@
 # Atak cold boot na żywo. Czyli jak zdeszyfrować laptopa zamrażając kości pamięci?
 Repozytorium zawiera prezentację, komendy oraz snippety, które pojawiły w trakcie szkolenia w ramach Sekurak Academy.
 W repozytorium znajduje się kilka plików:
-- Cold_Boot_Attack.pdf - PDF z prezentacją,
-- images.7z - zawiera dwa pliki:
-    - bitlocker.img - zrzut 100 pierwszych sektorów z partycji BitLockera,
-    - ram.img - zrzut pamięci RAM uzyskany w trakcie szkolenia.
-- generate_fvek.py - skrypt wykorzystany w trakcie szkolenia do wygenerowania pliku FVEK dla Dislocker'a.
-- fvek.key - plik FVEK wygenerowany przez powyższy skrypt.
+- **Cold_Boot_Attack.pdf** - PDF z prezentacją,
+- [**images.7z**](https://leftarcode.com/coldboot/images.7z) - na zewnętrznym serwerze, bo ma ~1GB izawiera dwa pliki:
+    - **bitlocker.img** - zrzut 100 pierwszych sektorów z partycji BitLockera,
+    - **ram.img** - zrzut pamięci RAM uzyskany w trakcie szkolenia.
+- **generate_fvek.py** - skrypt wykorzystany w trakcie szkolenia do wygenerowania pliku FVEK dla Dislocker'a.
+- **fvek.key** - plik FVEK wygenerowany przez powyższy skrypt.
 
 Gorąco zachęcam do spróbowania swoich sił w poszukiwaniach kluczy BitLocker'a w pamięci RAM.
 Dla programistów ciekawym wyzwaniem może być napisanie własnego narzędzia, które znajdzie klucze Full Volume Encryption Key bazując na wiedzy ze szkolenia.
