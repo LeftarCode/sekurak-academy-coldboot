@@ -2,7 +2,7 @@
 Repozytorium zawiera prezentację, komendy oraz snippety, które pojawiły w trakcie szkolenia w ramach Sekurak Academy.
 W repozytorium znajduje się kilka plików:
 - **Cold_Boot_Attack.pdf** - PDF z prezentacją,
-- [**images.7z**](https://leftarcode.com/coldboot/images.7z) - na zewnętrznym serwerze, bo ma ~1GB izawiera dwa pliki:
+- [**images.7z**](https://leftarcode.com/coldboot/images.7z) - na zewnętrznym serwerze, bo ma ~1GB i zawiera dwa pliki:
     - **bitlocker.img** - zrzut 100 pierwszych sektorów z partycji BitLockera,
     - **ram.img** - zrzut pamięci RAM uzyskany w trakcie szkolenia.
 - **generate_fvek.py** - skrypt wykorzystany w trakcie szkolenia do wygenerowania pliku FVEK dla Dislocker'a.
